@@ -1,0 +1,33 @@
+#root{
+  background-color:#627254;
+  padding: 30px;
+  text-align: center;
+  color: white;
+}
+.buscador{
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+}
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  padding: 20px;
+  color: black;
+}
+.card{
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+}
+
+.img{
+  height: 300px;
+}
+li{
+  list-style: none;
+  text-align: start;
+}
+
